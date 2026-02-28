@@ -37,7 +37,7 @@ Built on top of the [GFX Framework](https://github.com/UPB-Graphics/gfx-framewor
 
 ### Demo
 
-
+https://github.com/user-attachments/assets/8ff93738-4b85-4f70-beac-e271e95b7cbe
 
 ## Prerequisites
 
